@@ -6,7 +6,7 @@ Link to backend repo: https://github.com/SharonBello/Wiserr-Backend
 
 ## Demo
 
-http://wiserr-app.herokuapp.com/
+https://wiserr.onrender.com/
 
 ## Screenshots
 
