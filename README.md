@@ -45,6 +45,7 @@ https://wiserr.onrender.com/
 - Live order update
 - Seller's homepage
 - Step by step add-gig
+- accessibility
 
 ## Deployment
 
